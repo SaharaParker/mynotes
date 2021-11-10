@@ -1,0 +1,1 @@
+- JavaScript is a vital part of our website that allows us to make our websites and webpages interactive.

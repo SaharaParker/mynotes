@@ -1,0 +1,2 @@
+- Addresses are made up of numbers and are unique to every computer.
+- They translate to the website that we are looking for. For example, www.google.com is connected to its own numerical address.

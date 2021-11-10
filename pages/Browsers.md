@@ -1,0 +1,2 @@
+- Everyone knows what a browser is.
+- A browser (exa. Google Chrome, Firefox, or Safari), is how we look through different web pages.

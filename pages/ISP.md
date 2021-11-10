@@ -1,0 +1,2 @@
+- ISP stands for Internet Service Provider and it is the company providing the user with internet.
+- The ISP can provide this service to personal users as well as businesses.

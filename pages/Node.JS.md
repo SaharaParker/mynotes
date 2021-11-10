@@ -1,0 +1,1 @@
+- Using JavaScript, we use Node.JS to launch the front, and back end of apps outside of a web browser.

@@ -1,0 +1,1 @@
+- Domain Name System, or DNS, is a system that coverts a URL(Web Address) into a numerical IP Address.

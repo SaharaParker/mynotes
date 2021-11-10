@@ -1,0 +1,3 @@
+- Cascading Style Sheets, abbreviated to CSS, is how we stylize or websites and web pages.
+- We can use CSS to add color, padding, margins, etc.
+- In short, CSS is what makes things look good.

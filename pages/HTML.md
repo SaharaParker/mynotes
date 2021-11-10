@@ -1,0 +1,2 @@
+- HTML stands for Hyper Text Markup Language and it is what allows the content on the website.
+- It is the main coding that websites use.

@@ -1,0 +1,4 @@
+- The Internet Backbone consists of cables that help connect from one place to another.
+- These cables are actually connected under the ocean.
+- The Internet Backbone connects Servers or 'Big Computers' for example, Yahoo or Google, to one another.
+- The resource we used to see these connections is called The [[Submarine Cable Map]].

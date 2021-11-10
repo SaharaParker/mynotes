@@ -1,0 +1,14 @@
+- Today, we grasped a basic understanding about how the internet works.
+  collapsed:: true
+	- ![2021_11_10_image.png](https://cdn.logseq.com/%2F4ea76d37-7bf6-43e6-bc54-17dfdd9c6d62068643a0-58b7-41b5-ae84-46e4cd34e3b72021_11_10_image.png?Expires=4790120935&Signature=kqch5FVUKTONBdovDXFeIuRNLwc7rPFcY0oVP69jRLTjyvmFGgPiWbN8k5IlaSTpZTT6BbyxbYjCv7ForNy4ncN4nwGJkjzzLbSBCM~QNowhtvasJW-NCJdmMV3vrDSXuDCu6JjoiX6TK~zF4m5IaPERzAJSyepufVpeJbT~mrzbmzYqnWHBMImkiOrs-K~chutxabw~92rSL42b2IlVRl1lMzdf7sRwU1QcP0S4n-hShdK6wWZ2snwH5ZKs9UeX4hKhBCqfyOarTx-fb8WOEWS0Lozl0Tb8WdcC1zWSFQM5MA0s3c0ZflVaDUn0Uj9thE2Bih-Ak0p8U1AmXLvWvQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
+	- ![2021_11_09_image.png](https://cdn.logseq.com/%2F4ea76d37-7bf6-43e6-bc54-17dfdd9c6d622308590e-c926-45ec-b884-e3bac90efdc12021_11_09_image.png?Expires=4790117790&Signature=ZUU6N9O6zHcuQXOI6a1~~RIj-12l8qUF9R8eT518Mv0NS~~6k-jIbp91Vwc2x1cOuNeufjjQcIAPEbTbkWAlpfAopqkFOy1nBc9yXAWea6OBkE-zartY8o3XVVxa1-vx7PXvuqO9KXDIeYZe~xerja-Nx7jeg1REhlCre6AImSSD3MES9W4sx4Ey~CVHjqIO2M4gxZrWqZccxngde2p67-GN2YJAT2UjWFRmy77tUSObAvzUwJ7dpkHSeQJGRNgCqqV773iMApSZHNuJrGko9BEj72zXDhj7AfEiwIaIV9~vp7opmoi6oWamp3NemZjYWfNJ5sIhcuAd0pn~~XcOzA__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
+- In class, we covered:
+	- [[Internet Backbone]]
+	- [[Addresses]]
+	- The Front-End Stack, which includes: [[HTML]], [[CSS]], and [[JavaScript]]
+	- The Back-End Stack, which includes: [[Node.JS]] and Databases
+	-
+- On my own, I looked into and learned about:
+	- [[ISP]] Networks
+	- [[DNS]]
+	- [[Browsers]]

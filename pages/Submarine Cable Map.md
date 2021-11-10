@@ -1,0 +1,4 @@
+- This Resource is regularly updated and shows the current connections of the underwater cables
+	- ![2021_11_09_image.png](https://cdn.logseq.com/%2F4ea76d37-7bf6-43e6-bc54-17dfdd9c6d6235b73336-6c4b-48cc-9193-c5b03f9cfdb82021_11_09_image.png?Expires=4790118800&Signature=SncY-F3f1RssdMqQLX2AonasWH8QVKcuzWnLrwmxPS~AoTLB0iulJRf4xWAlRqeV7cwfhpi-Vytx~qeSkOzTJKXtA8Qo-59Vp42BY1tPgQPME9VFE1ND2nRONRq~PbjPrZaKzptgTrm42gJ-f0emM-X1zFFpjsbZBhWsbUHKygtpVEAQS-bc3s1tADhjeZM~Wm-b1t3MlL7H0YH3-XOJtAQgMQo4RN~oi9NCIwDFEvvu4KOnv7kVZW55F94ZF~m-1t0SJEKHjgCpWdFXaTvBRQAmVTybjEloktIxsmMOMih8v75ubHnTETpL9GNXkGunMf3Y2-hGLn1bYnWoeeFROQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
+	-
+- This site can be reached here: https://www.submarinecablemap.com/
